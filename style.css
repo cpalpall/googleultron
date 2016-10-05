@@ -1,0 +1,50 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  width: 771px;
+  height: 64px;
+  padding: 26px;
+  font-family: "Open Sans";
+}
+
+.ui.container {
+  width: 351.391px;
+  height: 44px;
+}
+
+.ultron.logo {
+  width: 123px;
+  height: 40px;
+}
+
+.ui.selection.dropdown {
+  border: none;
+  box-shadow: none;
+  display: inline-block;
+  text-align: center;
+  box-sizing: border-box;
+}
+.ui.borderless.bottommennu {
+  text-align: center;
+  font-family: "Open Sans";
+}
+
+.ultron {
+  height: 512px;
+  width: 512px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Open Sans";
+  color: #333;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: "arial";
+  color: #333;
+  font-size: 16px;
+  font-weight: 400;
+}
